@@ -40,5 +40,5 @@ RUN [COMMAND 2] To visualise the videos
 
 
 #### Credits:
-Adrian Rosebrock - Face Detection
-Marques Brownlee - Video Credits
+* Adrian Rosebrock - Face Detection
+* Marques Brownlee - Video Credits
