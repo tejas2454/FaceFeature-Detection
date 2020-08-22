@@ -39,6 +39,6 @@ RUN [COMMAND 1] To get pickle files : main_file and parts_file
 RUN [COMMAND 2] To visualise the videos 
 
 
-## Credits:
+## Credits
 * Adrian Rosebrock - Face Detection
 * Marques Brownlee - Video Credits
