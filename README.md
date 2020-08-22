@@ -15,6 +15,7 @@ video file :vk.mp4
 Install Opencv (cv2) package
 Install numpy package
 Install pickle package
+Shape Predictor File Download Link : https://drive.google.com/file/d/17ULgxYgx9lVpu_SW8qyBoEyjw7qFhG8j/view?usp=sharing
 ```
 
 ## Usage
